@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "left-navigation-menu-pages-webpart-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/leftNavigationMenuPagesWebpart/LeftNavigationMenuPagesWebpartWebPart.js",
+          "manifest": "./src/webparts/leftNavigationMenuPagesWebpart/LeftNavigationMenuPagesWebpartWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "LeftNavigationMenuPagesWebpartWebPartStrings": "lib/webparts/leftNavigationMenuPagesWebpart/loc/{locale}.js"
+  }
+}

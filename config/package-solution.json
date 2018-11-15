@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "left-navigation-menu-pages-webpart-client-side-solution",
+    "id": "77fa626a-c092-4b9e-8d26-17cc78bac25a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/left-navigation-menu-pages-webpart.sppkg"
+  }
+}

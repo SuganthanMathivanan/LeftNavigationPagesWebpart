@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "linq": "registry:npm/linq#3.0.5+20160322032703"
+  }
+}

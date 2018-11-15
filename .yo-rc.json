@@ -1,0 +1,10 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.5.1",
+    "libraryName": "left-navigation-menu-pages-webpart",
+    "libraryId": "77fa626a-c092-4b9e-8d26-17cc78bac25a",
+    "environment": "spo",
+    "packageManager": "npm",
+    "isCreatingSolution": true
+  }
+}
